@@ -1,3 +1,3 @@
 ### TestRepo
 #### Just a rather unsorted DevOps repo :P
-A little bit of anything coding and electronics related. Contains projects in DataScience, some exercices in Python, Java and C++.
+A little bit of anything coding and electronics related. Contains projects in DataScience, some exercices in Python, Java and C++ and bash script to highlight some skills in system admin.
